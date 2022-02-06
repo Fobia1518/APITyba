@@ -10,7 +10,7 @@ npm i
 
 ## Usage
 
-Command to execute docker compose
+Command to execute the project through docker compose
 
 ```javascript
 docker compose up
